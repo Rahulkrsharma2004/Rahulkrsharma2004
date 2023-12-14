@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<img width='400px'align='left' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif' alt='rahul.pic' />
 <h3 align="center">A passionate frontend developer(React) with a love for crafting engaging and user-friendly web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkrsharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkrsharma2004" /> </p>
