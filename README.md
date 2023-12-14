@@ -9,13 +9,15 @@
 
 - 🤝 I’m looking for help with [Tmetric](adorable-tartufo-a3a74f.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io/](https://rahulkrsharma2004.github.io/)
+- 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io/ , https://adorable-tartufo-a3a74f.netlify.app/ , https://glistening-salamander-635b93.netlify.app/](https://rahulkrsharma2004.github.io/ , https://adorable-tartufo-a3a74f.netlify.app/ , https://glistening-salamander-635b93.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Git**
 
-- 📫 How to reach me **kumarrahulbasdiha@gmail.com**
+- 📫 How to reach me **kumarrahulbasdiha@gmail.com , 8084906496**
 
 - 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?selectedTemplate=ClassicElegance&isEdit=true&resumeId=656dc0cd0968ffcea2df748b&profileId=self](https://test-resume.masaischool.com/dashboard/profile/?selectedTemplate=ClassicElegance&isEdit=true&resumeId=656dc0cd0968ffcea2df748b&profileId=self)
+
+- ⚡ Fun fact **I think I am Funny ..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
