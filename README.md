@@ -1,7 +1,7 @@
 ### Hi there 👋 Rahul Kumar
 
 <!--
-**Rahulkrsharma2004/Rahulkrsharma2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rahulkrsharma2004/Rahulkrsharma2004** is a ✨ Hello World! I'm Rahul, a passionate web developer with a love for crafting engaging and user-friendly web experiences. ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
