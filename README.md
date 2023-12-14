@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate frontend developer(React)</h3>
+<h3 align="center">A passionate frontend developer(React) with a love for crafting engaging and user-friendly web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkrsharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkrsharma2004" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Tmetric](adorable-tartufo-a3a74f.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io/ , https://adorable-tartufo-a3a74f.netlify.app/ , https://glistening-salamander-635b93.netlify.app/](https://rahulkrsharma2004.github.io/ , https://adorable-tartufo-a3a74f.netlify.app/ , https://glistening-salamander-635b93.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io/ , https://adorable-tartufo-a3a74f.netlify.app/ , https://glistening-salamander-635b93.netlify.app/].
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Git**
 
