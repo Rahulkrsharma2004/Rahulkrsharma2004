@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkrsharma2004" alt="rahulkrsharma2004" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with [Tmetric](adorable-tartufo-a3a74f.netlify.app)
+- 🤝 I’m looking for help with [Myntra](https://myntra-frontend-app.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io/ , https://adorable-tartufo-a3a74f.netlify.app/ , https://glistening-salamander-635b93.netlify.app/].
+- 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io ,https://myntra-frontend-app.netlify.app,https://rahultmetric.netlify.app,https://toggleheadrahulassignment.netlify.app].
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Git**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js,MongoDB,Express,Git**
 
 - 📫 How to reach me **kumarrahulbasdiha@gmail.com , 8084906496**
 
