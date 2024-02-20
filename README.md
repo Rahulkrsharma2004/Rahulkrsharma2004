@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with [Myntra](https://myntra-frontend-app.netlify.app)
+- 🤝 I’m currently working on the [Myntra](https://myntra-frontend-app.netlify.app)
 
 - 👨‍💻 All of my projects are available at [https://rahulkrsharma2004.github.io ,https://myntra-frontend-app.netlify.app,https://rahultmetric.netlify.app,https://toggleheadrahulassignment.netlify.app].
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=65d37fde20611c3404698c92&profileId=self&selectedTemplate=ClassicElegance](https://test-resume.masaischool.com/dashboard/profile/?resumeId=65d37fde20611c3404698c92&profileId=self&selectedTemplate=ClassicElegance)
 
-- ⚡ Fun fact **I think I am Funny ..**
+- ⚡ Fun fact **I think I am Funny..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrsharma2004&show_icons=true&locale=en&layout=compact" alt="rahulkrsharma2004" /></p>
 
