@@ -10,7 +10,7 @@
 
 - 🤝 I’m currently working on the [Myntra](https://myntra-frontend-app.netlify.app)
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://rahulkrsharma2004.github.io), [MYNTRA](https://myntra-frontend-app.netlify.app), [TMETRIC](https://rahultmetric.netlify.app), [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app)
+- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-frontend-app.netlify.app), [TMETRIC](https://rahultmetric.netlify.app), [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js,MongoDB,Express,Git**
 
