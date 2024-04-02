@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumarrahulbasdiha@gmail.com , 8084906496**
 
-- 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=65d37fde20611c3404698c92&profileId=self&selectedTemplate=ClassicElegance](https://test-resume.masaischool.com/dashboard/profile/?resumeId=65d37fde20611c3404698c92&profileId=self&selectedTemplate=ClassicElegance)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KBlbPmOyXu4TRbc9VZXexs1i4BGexRj2/view?usp=drive_link](https://drive.google.com/file/d/1KBlbPmOyXu4TRbc9VZXexs1i4BGexRj2/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Funny..**
 
