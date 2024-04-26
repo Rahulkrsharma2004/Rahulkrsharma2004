@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" >
   <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPYu56RXAicGOnKbtvwpqkqXoJKfGWK3Dng&usqp=CAU" alt="babel" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtOxLhL5yLWKZtMCCXCFaPXBxfKJAdeChLw&usqp=CAU" alt="babel" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="babel" width="40" height="40"/> </a> 
@@ -41,7 +41,7 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="babel" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrsharma2004&show_icons=true&locale=en&layout=compact" alt="rahulkrsharma2004" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrsharma2004&show_icons=true&locale=en&layout=compact" alt="rahulkrsharma2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkrsharma2004&show_icons=true&locale=en" alt="rahulkrsharma2004" /></p>
 
