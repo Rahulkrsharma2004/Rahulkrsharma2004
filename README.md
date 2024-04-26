@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumarrahulbasdiha@gmail.com , 8084906496**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KBlbPmOyXu4TRbc9VZXexs1i4BGexRj2/view?usp=drive_link](https://drive.google.com/file/d/1KBlbPmOyXu4TRbc9VZXexs1i4BGexRj2/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](http://localhost:3000/static/media/RahulResume.3e5a490fce7f0e3469bc.pdf)
 
 - ⚡ Fun fact **I think I am Funny..**
 
