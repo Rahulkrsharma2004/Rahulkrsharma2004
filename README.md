@@ -10,9 +10,9 @@
 
 - 🤝 I’m currently working on the [Myntra](https://myntra-frontend-app.netlify.app)
 
-- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-frontend-app.netlify.app), [TMETRIC](https://rahultmetric.netlify.app), [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app), [E-Commerce Website](https://e-commerce-rks.netlify.app/)
+- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-frontend-app.netlify.app),  [TMETRIC](https://rahultmetric.netlify.app),  [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,Node.js,MongoDB,Express,Git,Chakra-UI,DOM**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB, Express, Git, Chakra-UI, DOM**
 
 - 📫 How to reach me **kumarrahulbasdiha@gmail.com , 8084906496**
 
