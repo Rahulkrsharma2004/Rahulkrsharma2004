@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m currently working on the [Myntra](https://myntra-frontend-app.netlify.app)
+- 🤝 I’m currently working on [Myntra Clone](https://myntra-frontend-app.netlify.app)
 
 - 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-frontend-app.netlify.app),  [TMETRIC](https://rahultmetric.netlify.app),  [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
 
