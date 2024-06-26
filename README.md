@@ -10,7 +10,7 @@
 
 - 🤝 I’m currently working on [Myntra Clone](https://myntra-frontend-app.netlify.app)
 
-- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-frontend-app.netlify.app),  [TMETRIC](https://rahultmetric.netlify.app),  [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
+- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-project-nu.vercel.app),  [TMETRIC](https://rahultmetric.netlify.app),  [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB, Express, Git, Chakra-UI, DOM**
 
