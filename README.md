@@ -1,7 +1,7 @@
-<a href="https://www.linkedin.com/in/rahul-kr-sharma-35a989280/" target="_blank">
+<a href="https://www.linkedin.com/in/rahul-kr-sharma-35a989280/" target="blank">
   <img align="left" alt="Rahul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
-<a href="https://leetcode.com/u/Rahulkr01/" target="_blank">
+<a href="https://leetcode.com/u/Rahulkr01/" target="blank">
   <img align="left" alt="Rahul's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
