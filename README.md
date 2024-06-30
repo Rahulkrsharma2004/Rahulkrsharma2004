@@ -47,8 +47,14 @@
   <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="Material-UI" width="55" height="55"/>
   <img src="https://www.svgrepo.com/show/330132/chakraui.svg" alt="Chakra UI" width="55" height="55"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrsharma2004&show_icons=true&locale=en&layout=compact" alt="rahulkrsharma2004" /></p>
+<h2 align="center">📊 My Github Stats</h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkrsharma2004&theme=radical" alt="Mohd Murtaza" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rahulkrsharma2004&show_icons=true&theme=radical" height="255px" width="47%"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkrsharma2004&show_icons=true&locale=en" alt="rahulkrsharma2004" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrsharma2004&" alt="rahulkrsharma2004" /></p>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkrsharma2004&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="100%"/>
+</div>
