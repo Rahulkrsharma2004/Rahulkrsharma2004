@@ -16,13 +16,13 @@
 
 - 🤝 I’m currently working on [Myntra Clone](https://myntra-project-nu.vercel.app)
 
-- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-project-nu.vercel.app),  [TMETRIC](https://rahultmetric.netlify.app),  [INTERNSHIP PROJECT](https://toggleheadrahulassignment.netlify.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
+- 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-project-nu.vercel.app),  [Google-Calendar](https://google-calendar-rks.netlify.app),  [Virtual-Assistant](https://virtual-assistantrk.vercel.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB, Express, Git, Chakra-UI, DOM**
 
 - 📫 How to reach me **kumarrahulbasdiha@gmail.com , 8084906496**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ps15EuhbhAur3BlfWKd8ofIEmZT_TdmA/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PgsW0QeKX5C89US3MdZX7eTVM-6fzPfF/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Funny..**
 
