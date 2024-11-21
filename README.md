@@ -30,7 +30,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/rahul-kumar-35a989280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-35a989280" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/rahulkrsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/rahulkrsharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code_with_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code_with_rahul" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
