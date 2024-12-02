@@ -42,12 +42,12 @@
 </p>
 <h2 align="center">📊 My Github Stats</h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkrsharma2004&theme=radical" alt="Mohd Murtaza" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkrsharma2004&theme=radical" alt="Rahul status" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rahulkrsharma2004&show_icons=true&theme=radical" height="255px" width="47%"/>
 </div>
 
 <br />
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkrsharma2004&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="100%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkrsharma2004&theme=radical&langs_count=8" alt="Rahul status" height="260px" width="100%"/>
 </div>
