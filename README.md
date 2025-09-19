@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m currently working on [Travel Website](https://travel-website-rk.vercel.app)
+- 🤝 I’m currently working on [PEEKIT.AI](https://peekit.ai)
 
 - 👨‍💻 All of my projects are available at [MYNTRA](https://myntra-project-nu.vercel.app),[Travel Website](https://travel-website-rk.vercel.app)  [Google-Calendar](https://google-calendar-rks.netlify.app),  [Virtual-Assistant](https://virtual-assistantrk.vercel.app),  [E-Commerce Website](https://e-commerce-rks.netlify.app/)
 
